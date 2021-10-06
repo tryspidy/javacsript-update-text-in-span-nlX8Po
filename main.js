@@ -1,0 +1,1 @@
+document.getElementById("myspan").textContent="newtext";
